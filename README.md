@@ -1,6 +1,6 @@
 <doctype HTML> 
 <head>
-	<title>Livro de receitas</title>
+	
 </head>
 <body>
 
@@ -8,10 +8,10 @@
 
 <p>Olá! Bem Vindo ao livro de receitas</p>
 
-<ol>
+<ul>
 	<li><p>Strogonoff de Frango</p></li>
-
-</ol>
+	<li><p>Cucuz</p></li>
+</ul>
 </body>
 
 </html>
